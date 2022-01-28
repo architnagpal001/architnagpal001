@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Archit Nagpal</h1>
 <h3 align="center">Machine Learning Enthusiast || Golang Programmer</h3>
 
