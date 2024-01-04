@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archit Nagpal</h1>
-<h3 align="center">Machine Learning Enthusiast || Golang Programmer</h3>
+<h3 align="center">Machine Learning Enthusiast || Golang Programmer || Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architnagpal001&label=Profile%20views&color=0e75b6&style=flat" alt="architnagpal001" /> </p>
 
